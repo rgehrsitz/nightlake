@@ -4,7 +4,7 @@ Night Lake is a selection of soft, calming tones that pair nicely with the dark 
 
 ## Images
 
-![Alt text](image.png)
+![Alt text](images/image.png)
 
 I highly recommend use of the Monaspace font family. You can find it at: https://github.com/githubnext/monaspace
 
