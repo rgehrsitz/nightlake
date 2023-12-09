@@ -1,0 +1,21 @@
+{
+  "name": "nightlake",
+  "displayName": "nightlake",
+  "description": "A peaceful night/water theme that evokes rest and relaxation.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Night Lake",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Night Lake-color-theme.json"
+      }
+    ]
+  }
+}
