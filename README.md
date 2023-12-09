@@ -1,16 +1,11 @@
-# nightlake README
+# Night Lake
 
-## Working with Markdown
+Night Lake is a selection of soft, calming tones that pair nicely with the dark background while still providing decent contrast and readability.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Images
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![Alt text](image.png)
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+I highly recommend use of the Monaspace font family. You can find it at: https://github.com/githubnext/monaspace
 
 **Enjoy!**
