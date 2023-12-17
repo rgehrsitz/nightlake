@@ -2,7 +2,7 @@
 	"name": "nightlake",
 	"colors": {
 		"focusBorder": "#151b20",
-		"foreground": "#D2E1DD",
+		"foreground": "#e1d6d2",
 		"errorForeground": "#DF8D8D",
 		"textLink.activeForeground": "#82C7EB",
 		"textLink.foreground": "#82C7EB",
@@ -102,7 +102,7 @@
 		"peekViewTitleLabel.foreground": "#C792EA",
 		"merge.currentHeaderBackground": "#0B162C",
 		"merge.incomingHeaderBackground": "#131B22",
-		"panel.background": "#1E242C80",
+		//"panel.background": "#1E242C80",
 		"panel.border": "#151b2080",
 		"panelTitle.activeBorder": "#82AAFF",
 		"panelTitle.activeForeground": "#D2E1DD",
