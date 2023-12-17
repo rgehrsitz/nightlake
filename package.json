@@ -3,7 +3,7 @@
   "displayName": "nightlake",
   "description": "A peaceful night/water theme that evokes rest and relaxation.",
   "icon": "images/nightlake.png",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "digwave",
   "engines": {
     "vscode": "^1.80.0"
